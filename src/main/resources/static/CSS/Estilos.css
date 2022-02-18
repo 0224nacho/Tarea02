@@ -75,17 +75,8 @@
       
 }
 
-.barralateral{
-   position: absolute;
-   background-color: #cccccc;
-   top: 100%;
-   left: 0%;
-   padding: 10px;
-   height: 100%;
-   width: 20%;
-   overflow: auto;
-    
-}
+
+
 
 
 .contenido{
